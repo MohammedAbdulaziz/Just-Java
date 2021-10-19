@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">القهوة فقط</string>
+    <string name="PRICE">السعر</string>
+    <string name="addChocolate">إضافة شيكولاتة</string>
+    <string name="addWhippedCream">إضافة كريمة مخفوقة</string>
+    <string name="chocolate">شيكولاتة</string>
+    <string name="cupsOfCoffee">فناجين من القهوة</string>
+    <string name="name">الاسم</string>
+    <string name="order">الطلب</string>
+    <string name="orderSummary">ملخص الطلب</string>
+    <string name="pleaseQuantity">برجاء تحديد الكمية</string>
+    <string name="price">السعر</string>
+    <string name="quantity">الكمية</string>
+    <string name="thankYou">شكرا لك</string>
+    <string name="toppings">الإضافات</string>
+    <string name="total">الإجمالي</string>
+    <string name="whippedCream">كريمة مخفوقة</string>
+    <string name="zero">۰</string>
+    <string name="one">۱</string>
+    <string name="two">۲</string>
+    <string name="three">۳</string>
+    <string name="four">٤</string>
+    <string name="five">٥</string>
+    <string name="six">٦</string>
+    <string name="seven">٧</string>
+    <string name="eight">۸</string>
+    <string name="nine">۹</string>
+</resources>
